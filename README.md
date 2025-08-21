@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meenu884
+- Hi, I’m @Meenu884
 - 👀 I’m interested in WEB DEVELOPMENT.
 - 🌱 I’m currently learning Git and Github.
 - 💞️ I’m looking to collaborate on Friends.
