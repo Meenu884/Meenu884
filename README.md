@@ -1,4 +1,7 @@
-- Hi, I’m @Meenu884
+##Hai there, Iam Jayameenakshi
+##Full stack web developer
+
+- Hi, I’m @Meenu884 in Github
 - I’m interested in WEB DEVELOPMENT.
 - I’m currently learning Git and Github.
 - I’m looking to collaborate on Friends.
