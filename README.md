@@ -1,11 +1,7 @@
-Hi, I’m Jayameenakshi@Meenu884 in Github
-- I’m interested in WEB DEVELOPMENT.
-- I’m currently learning Git and Github.
-- I’m looking to collaborate on Friends.
-
 # 👋 Hi, I'm [Jayameenakshi S.S]
 ### Full Stack Web Developer | React | Node.js | Express.js
 
+- ⭐ I am interested in Web development.
 - 🔭 I’m currently building a [Chatbot] using the MERN stack.
 - 🌱 I’m currently mastering **JavaScript** and **Next.js 15**.
 - 💬 Ask me about **Bootstrap, Tailwind, or REST APIs**.
