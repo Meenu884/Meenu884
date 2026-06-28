@@ -1,2 +1,2 @@
-# 👋 Hi, I'm [Jayameenakshi S.S]
+# Hi, I'm [Jayameenakshi S.S]
 
