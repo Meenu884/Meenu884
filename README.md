@@ -75,15 +75,10 @@ An AI-powered career guidance platform that helps users explore skills, courses,
 
 ---
 
-### 💰 Expense Tracker Application
-A CRUD-based expense management application.
+## 📚 Currently Learning
+A Backend skills for creating a application.
 
-**Tech Stack:**
+**Tools:**
 - React.js
 - FastAPI
 - MongoDB
-
----
-
-## 📚 Currently Learning
-
