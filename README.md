@@ -1,16 +1,30 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**Meenu884/Meenu884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Static portfolio (HTML, CSS, JS). No build step.
 
-Here are some ideas to get you started:
+## Before you deploy
+1. Find and replace `USERNAME` with your GitHub username in `index.html`, `robots.txt`, `sitemap.xml`.
+2. Replace `you@example.com`, LinkedIn URL, and each project's Code / Live demo links.
+3. Put your resume at `assets/Jayameenakshi_Resume.pdf`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Deploy to GitHub Pages
+1. Create a repo named `USERNAME.github.io` (public).
+2. From this folder:
+   ```bash
+   git init
+   git add .
+   git commit -m "Add portfolio"
+   git branch -M main
+   git remote add origin https://github.com/USERNAME/USERNAME.github.io.git
+   git push -u origin main
+   ```
+3. Repo Settings > Pages > Source: Deploy from a branch > `main` / `(root)` > Save.
+4. Live at `https://USERNAME.github.io/` in about a minute.
+
+## Local preview
+```bash
+python -m http.server 8000
+```
+
+## SEO follow-up
+Submit `https://USERNAME.github.io/sitemap.xml` in Google Search Console.
