@@ -1,25 +1,74 @@
-<h1>Hi 👋, I'm Jayameenakshi</h1>
-<p>I'm a passionate Full Stack Web Developer who enjoys creating modern, beautiful, and user-friendly websites. I love learning new technologies and turning ideas into real projects.     💻 HTML | CSS | JavaScript | React | Node.js | MongoDB   🚀 Always learning and building new projects.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="in/jayameenakshi-s-s-234682298">Linkedin</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/in/jayameenakshi-s-s-234682298" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/Jayameenakshi S S" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/Jayameenakshi04" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Meenu884&show_icons=true&locale=en" alt="Meenu884" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Meenu884&" alt="Meenu884" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meenu884&show_icons=true&locale=en&layout=compact" alt="Meenu884" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Meenu884" alt="Meenu884" /></a></p>
+from pathlib import Path
+
+svg = '''<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="260" rx="28" fill="url(#bg)"/>
+
+  <!-- Floating particles -->
+  <g fill="#ffffff" opacity="0.7">
+    <circle cx="90" cy="55" r="3">
+      <animate attributeName="cy" values="55;35;55" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="810" cy="190" r="4">
+      <animate attributeName="cy" values="190;165;190" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="55" r="2.5">
+      <animate attributeName="cy" values="55;75;55" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="140" cy="205" r="2.5">
+      <animate attributeName="cy" values="205;180;205" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Code decoration -->
+  <text x="55" y="55" font-family="monospace" font-size="20" fill="#fff" opacity="0.6">&lt;/&gt;</text>
+  <text x="805" y="65" font-family="monospace" font-size="20" fill="#fff" opacity="0.6">{ }</text>
+
+  <!-- Main title -->
+  <text x="450" y="105" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="42" font-weight="700"
+        fill="#ffffff" filter="url(#glow)">
+    Hi, I'm Jayameenakshi 👋
+    <animate attributeName="opacity" values="0;1;1;1" dur="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- Animated subtitle -->
+  <text x="450" y="150" text-anchor="middle"
+        font-family="Arial, sans-serif" font-size="23"
+        fill="#ffffff">
+    Full Stack Web Developer
+    <animate attributeName="y" values="170;150" dur="1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- Typing line -->
+  <text x="450" y="195" text-anchor="middle"
+        font-family="monospace" font-size="16" fill="#f1f1f1">
+    Building • Learning • Creating • Growing
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated progress line -->
+  <rect x="250" y="218" width="400" height="3" rx="2" fill="#ffffff" opacity="0.25"/>
+  <rect x="250" y="218" width="0" height="3" rx="2" fill="#ffffff">
+    <animate attributeName="width" values="0;400;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+'''
+
+path = Path("/mnt/data/github_profile_animation.svg")
+path.write_text(svg, encoding="utf-8")
+print(f"Created: {path}")
